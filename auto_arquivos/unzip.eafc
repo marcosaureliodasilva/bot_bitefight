@@ -1,0 +1,108 @@
+<!DOCTYPE HTML PUBLIC "-\/\/W3C\/\/DTD HTML 4\.01 Transitional\/\/EN">
+<html>
+    <head>
+        <title>BiteFight Server 1<\/title>
+        <link rel="stylesheet" type="text\/css" href="\/css\/game\.css">
+      <meta http-equiv="content-type" content="text\/html; charset=UTF-8">
+<style type="text\/css">
+    \.advertising \*\{margin:0 auto;\}
+    \.advertising \{text-align:center;\}
+<\/style>
+<script type="text\/javascript" src="\/js\/jquery-1\.3\.2\.js"><\/script>
+<script type="text\/javascript" src="\/js\/countdown\/jquery\.countdown\.js"><\/script>
+
+    <\/head>
+    <body bgcolor="#220202"  >
+        <div id="container">            <img src="http:\/\/s1\.br\.bitefight\.org\/img\/header\.jpg"  width="1035" height="294" style="position:absolute; left:-37px; top:0px;" alt="Bitefight" \/>                        
+            <div style="position:absolute; left:222; top:158px; width:728px; height:90px;" class=advertising>
+                            <\/div>
+
+            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                    <td style="width:20px; background-image:url\(http:\/\/s1\.br\.bitefight\.org\/img\/border\.gif\); background-repeat:repeat-y; background-position:right;">&nbsp;<\/td>
+                    <td style="width:156px; background-image:url\(http:\/\/s1\.br\.bitefight\.org\/img\/sidebg\.jpg\); background-repeat:repeat-y; background-position:left; vertical-align:top;">
+                        <div id="menu" style="width:156px; background-image:url\(http:\/\/s1\.br\.bitefight\.org\/img\/menubg\.jpg\); background-repeat:repeat-y; background-position:left;">
+                            <a href="http:\/\/s1\.br\.bitefight\.org\/profile\/index"  target="_top" >Geral<\/a><a href="http:\/\/s1\.br\.bitefight\.org\/msg\/index"  target="_top" class="newmessage" >Mensagens<\/a><a href="http:\/\/s1\.br\.bitefight\.org\/hideout\/index"  target="_top" >Esconderijo<\/a><a href="http:\/\/s1\.br\.bitefight\.org\/city\/index"  target="_top" >Cidade<\/a><a href="http:\/\/s1\.br\.bitefight\.org\/robbery\/index"  target="_top" >Caçar<\/a><br>
+    <a href="http:\/\/s1\.br\.bitefight\.org\/city\/voodoo"  target="_top" class="newmessage" >Loja VooDoo<\/a><a href="http:\/\/s1\.br\.bitefight\.org\/clan\/index"  target="_top" >Clã<\/a><a href="http:\/\/s1\.br\.bitefight\.org\/buddy\/show"  target="_top" >Lista de amigos<\/a><a href="http:\/\/s1\.br\.bitefight\.org\/user\/notes"  target="_top" >Bloco de notas<\/a><br>
+<a href="http:\/\/s1\.br\.bitefight\.org\/user\/settings"  target="_top" >Configurações<\/a><a href="http:\/\/board\.br\.bitefight\.org" target="_blank">Fórum<\/a>
+<a href="http:\/\/s1\.br\.bitefight\.org\/user\/highscore"  target="_top" >Estatísticas<\/a><a href="http:\/\/s1\.br\.bitefight\.org\/user\/search"  target="_top" >Procurar<\/a><a href="http:\/\/s1\.br\.bitefight\.org\/main\/help"  target="_top" >Ajuda<\/a><br>
+<a href="http:\/\/s1\.br\.bitefight\.org\/user\/logout"  target="_top" >Sair<\/a><center style="font-size: 0\.7em;">08\.10\.2010 16:04<\/center>
+                        <\/div>
+                        <img src="http:\/\/s1\.br\.bitefight\.org\/img\/menudivider\.gif"  width="156" height="17" \/>                    <\/td>
+                    <td style="width:16px; background-image:url\(http:\/\/s1\.br\.bitefight\.org\/img\/border\.gif\); background-repeat:repeat-y;">&nbsp;<\/td>
+                    <td style="background-image:url\(http:\/\/s1\.br\.bitefight\.org\/img\/darkstone\.jpg\); vertical-align:top; text-align:center;">
+                        <img src="http:\/\/s1\.br\.bitefight\.org\/img\/content_top\.jpg"  width="784" height="38" \/>                        <div id="content" style="position:relative; top:0px; width:720px; margin-left:auto; margin-right:auto;">
+                                                        <h1>Apetite para caçar de nortigo<\/h1>
+	<p>Ouro: 6 <img src="http:\/\/s1\.br\.bitefight\.org\/img\/res2\.gif"  title="Ouro" align="absmiddle" \/><\/p>
+	<p style="text-align:justify"><span class="text">Você está sentindo uma vontade para a caça\. Agora, escolha seu método preferido de caça para o ataque\. Você pode tentar através da área de vampiros e desafiá-los a lutar, ou pode pesquisar por um vampiro, em alguns casos você sabe o seu nome!<\/span><\/p>
+	<br>
+	<div>
+    	<div style="width:340px; float:right;">
+        	<div style="width:340px; height:125px; position:relative; top:0px; left:0px;">
+            	<div style="z-index:100; position:absolute;top:0px;left:0px;width:340px;">
+                    <img src="http:\/\/s1\.br\.bitefight\.org\/img\/new_race2hunt0\.jpg"  title="Caça ao humano" width="340" height="125" style="float:right;" \/>            	<\/div>
+	            <div style="z-index:102; position:absolute;top:80px;left:0px;width:340px;height:50px;">
+	                <h3>Caça ao humano<\/h3>
+	            <\/div>
+	        <\/div>
+	        <h2>Caça a Humanos<\/h2>
+            		        <div class="tdi">
+                                        Tempo de caça \(já usado 0:00:00 h\)
+        		    <br \/>
+            		<form action="http:\/\/s1\.br\.bitefight\.org\/robbery\/index\?__token=618345504623d49b95c28ccc87b0ebc3"  method="POST">
+                		<select name="mission" size="1" class="input">
+                            <option value="7eea0f33b32b2ff26a89597c38a94909">0:10:00 h<\/option><option value="f91d4718b883f3b9f2a1c1eb4d4d3eca">0:20:00 h<\/option><option value="0e4032296f5d1f4d4f72f1a689ea59ce">0:30:00 h<\/option><option value="649172de7aac8ed0e98f4392caf98948">0:40:00 h<\/option><option value="e73edddc3ecaad75c2d2337e931b1a69">0:50:00 h<\/option><option value="dcf7760f04caf10023bd4af61885b1fd">1:00:00 h<\/option><option value="183e0908553a4f582693dc4cf987342c">1:10:00 h<\/option><option value="e69482b053cc494cedc9dbbc995ba950">1:20:00 h<\/option><option value="4e92fe6e9addd71f5274671cd38cd0f0">1:30:00 h<\/option><option value="b02d214cc35d7d858f45863e99998955">1:40:00 h<\/option><option value="7484f0091749ae02d318fa64c67707b6">1:50:00 h<\/option><option value="125810b4102c1cd7ff723bb6c22ec282">2:00:00 h<\/option>                		<\/select>
+                		<input type="submit" class="input" name="hunt" value="OK!">
+            		<\/form>
+        		<\/div>
+                		        <p>Escolha se você gostaria de caçar vampiros ou seres humanos\. Cada dia é capaz de caçar durante duas horas\. Você pode reunir presa, ouro e\/ou experiência depois de uma caçada bem sucedida; porém sua caça não é sempre bem sucedida! Durante a sua caça, você não pode fazer outra coisa\.<\/p>
+        	        	<\/div>
+    	<div style="border-left-color:#7d7572; border-left-width:1px; border-left-style:solid; width:20px; height:400px; float:right;"><\/div>
+    	<div style="width:340px;">
+        	<div style="width:340px; height:125px; position:relative; top:0px; left:0px;">
+            	<div style="z-index:100; position:absolute;top:0px;left:0px;width:340px;">
+                    <img src="http:\/\/s1\.br\.bitefight\.org\/img\/new_race2hunt1\.jpg"  title="Caça aos vampiros" width="340" height="125" style="float:right;" \/>            	<\/div>
+            <div style="z-index:102; position:absolute;top:80px;left:0px;width:340px;height:50px;">
+            	<h3>Caça aos vampiros<\/h3>
+         	<\/div>
+        <\/div>
+                	<form action="http:\/\/s1\.br\.bitefight\.org\/robbery\/index\?__token=618345504623d49b95c28ccc87b0ebc3"  method="POST">
+            	<h2>Caça aos vampiros<\/h2>
+            	<p class="tdnp">Vagueie pela rua procurando vampiros<\/p>
+            	<div class="tdi">
+                    Opções de pesquisa:
+                	<br \/>
+	                <select name="bca9d2339b407bb9f271000e443035fc" size="1" class="input">
+	                    <option value="1">normal<\/option>
+	                    <option value="2">procurar rivais do mesmo nível ou superior<\/option>
+	                <\/select>
+	                <input type="submit" class="input" name="optionsearch" value="OK!">
+	            <\/div>
+                        	<\/form>
+                    	<h2>Procure um vampiro específico<\/h2>
+        	<form action="http:\/\/s1\.br\.bitefight\.org\/robbery\/index\?__token=618345504623d49b95c28ccc87b0ebc3"  method="POST">
+            	<div class="tdi">Nome:<br \/>
+                	<input class="input" type="text" name="a91b3def5418004382752fd436a3ac0e" size="30" value="" MAXLENGTH="30">
+                	<input type="hidden" name="namesearch" value="OK!">
+                	<input type="submit" class="input" name="namesearch" value="OK!">
+            	<\/div>
+                        	<\/form>
+                	<\/div>
+	<\/div>
+	                        <\/div>
+                    <\/td>
+                    <td style="width:22px; background-image:url\(http:\/\/s1\.br\.bitefight\.org\/img\/border\.gif\); background-repeat:repeat-y; background-position:left;">&nbsp;<\/td>
+                <\/tr>
+            <\/table>
+            <div>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td>
+                            <img src="http:\/\/s1\.br\.bitefight\.org\/img\/footer\.jpg"  width="998" height="92" style="display:block;" \/>                        <\/td>
+                    <\/tr>
+                <\/table>
+                <div id="copyright" ><a href="http:\/\/s1\.br\.bitefight\.org\/main\/changelog"  class="copyright" >1\.3\.6<\/a> © 2006 por <a href="http:\/\/www\.gameforge\.de" target="_blank" class="copyright">Gameforge Productions GmbH<\/a> <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=impress&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">Aviso Legal<\/a>, <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">Termos e Condições de uso<\/a>, <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=datenschutz&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">Política de Privacidade<\/a>, <a href="http:\/\/board\.br\.bitefight\.org\/index\.php\?page=Thread&threadID=2 target="_blank" class="copyright">Regras<\/a><\/div>
+            <\/div>
+                    <\/div>
+    <\/body>
+<\/html>

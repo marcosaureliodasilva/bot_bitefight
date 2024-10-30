@@ -1,0 +1,479 @@
+c1_nome: nada
+c1_tempo: 1875704
+c1_cookie: PHPSESSID=440fe21aafffead8759e4b593266d6cf
+c1_linha: uni_id=&v=2&is_utf8=0&uni_url=uni101.ogame.com.br&login=torre&pass=tor21casa
+c1_form: <form id="loginForm" name="loginForm" method="post" action="#">                    <input type="hidden" name="uni_id" value="" \/>                    <input type="hidden" name="v" value="2" \/>                    <input type="hidden" name="is_utf8" value="0" \/>					<div class="input-wrap">						<label for="serverLogin">Universo:<\/label>                                                 						<div class="black-border">							<select id="serverLogin" name="uni_url" onchange="setUniUrl\(this\.options\[this\.selectedIndex\]\.value\);">                                                                <option  value="uni103\.ogame\.com\.br">Capella<\/option>                                                                <option  value="uni101\.ogame\.com\.br">Andromeda<\/option>                                                                <option  value="uni102\.ogame\.com\.br">Barym<\/option>                                                                <option  value="uni1\.ogame\.com\.br">1\. Universo<\/option>                                                                <option  value="uni2\.ogame\.com\.br">2\. Universo<\/option>                                                                <option  value="uni3\.ogame\.com\.br">3\. Universo<\/option>                                                                <option  value="uni4\.ogame\.com\.br">4\. Universo<\/option>                                                                <option  value="uni5\.ogame\.com\.br">5\. Universo<\/option>                                                                <option  value="uni6\.ogame\.com\.br">6\. Universo<\/option>                                                                <option  value="uni7\.ogame\.com\.br">7\. Universo<\/option>                                                                <option  value="uni8\.ogame\.com\.br">8\. Universo<\/option>                                                                <option  value="uni9\.ogame\.com\.br">9\. Universo<\/option>                                							<\/select>						<\/div>					<\/div>					<div class="input-wrap">						<label for="usernameLogin">Nome de usuário:<\/label>						<div class="black-border">                            <input type="text" id="usernameLogin" class="" name="login" value="" \/>						<\/div>					<\/div>					<div class="input-wrap">                        <label for="passwordLogin">Password:<\/label>						<div class="black-border">                            <input type="password" class="" id="passwordLogin" name="pass" maxlength="20" \/>						<\/div>                        					<\/div>                    <label class="cookie-txt" for="stayLoggedIn"><input type="checkbox" id="stayLoggedIn" name="stayLoggedIn"  \/>Relembrar Senha<\/label>                    <input type="submit" id="loginSubmit" onclick="changeAction\('submitInput','loginForm'\);setLoginCookie\(\);document\.forms\['loginForm'\]\.submit\(\);" value="Entrar" \/>					<a href="#" id="pwLost" target="_blank" title="Esqueceu sua senha\?">Esqueceu sua senha\?<\/a>				<\/form>
+c1_origem: uni103.ogame.com.br
+c1_cookie_r: 101
+c1_login: supermario
+c1_senha: sup21casa
+c1_cookie_x: prsess_155330=8f2aecba62490a822efd681cac18d621
+c1_cookie_y: login_155330=U_br101%3Atorre%3A3b729fe1380ebe601c2e43fb92a7d0b6
+
+c2_nome: robbery/index
+c2_tempo: 731681
+c2_cookie: SID=f88dc43a7a9c3e803d5b5f8afbc44b79
+c2_linha: user=nortigo&pass=nor21casa
+c2_form: <form action="\/user\/login"  method="POST">    <center>        <br><br>        <table cellpadding="0" cellspacing="0" border="0" width="90%">                        <tr>                <td align="center" colspan="3">Insira o seu nome de jogador e a senha para entrar\.<br><br><\/td>            <\/tr>                            <tr>                <td align="center" valign="top"><img src="\/img\/race1\.gif" alt="Vampiro" ><\/td>                <td valign="top">                    <table cellpadding="2" cellspacing="2" border="0" width="100%">                        <tr>                            <td>Nome<\/td>                            <td><input class="input" type="text" name="user" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td>Senha<\/td>                            <td><input class="input" type="password" name="pass" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td align="center" colspan="2" class="fontsmall">Com o meu login eu aceito os <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">termos e condições de uso<\/a>\.<\/td>                        <\/tr>                        <tr>                            <td><\/td>                            <td><input type="submit" class="input" value="Entrar"><\/td>                        <\/tr>                    <\/table>                <\/td>                <td align="center" valign="top"><img src="\/img\/race2\.gif" alt="Lobisomen" ><\/td>            <\/tr>            <tr>                <td align="center" colspan="3"><a href="\/user\/lostpw" target="_top" class="headlines">Perdeu sua senha\?<\/a><\/td>            <\/tr>                    <\/table>    <\/center><\/form>
+c2_origem: s1.br.bitefight.org
+c2_cookie_r: nada
+c2_login: nortigo
+c2_senha: nor21casa
+c2_cookie_x: BiteFight_servers_br_1=true
+c2_cookie_y: nada
+
+c3_nome: profile/index
+c3_tempo: 1
+c3_cookie: SID=f7fa91a158087103d429732d22238a21
+c3_linha: user=gradal&pass=gra21casa
+c3_form: <form action="\/user\/login"  method="POST">    <center>        <br><br>        <table cellpadding="0" cellspacing="0" border="0" width="90%">                        <tr>                <td align="center" colspan="3">Insira o seu nome de jogador e a senha para entrar\.<br><br><\/td>            <\/tr>                            <tr>                <td align="center" valign="top"><img src="\/img\/race1\.gif" alt="Vampiro" ><\/td>                <td valign="top">                    <table cellpadding="2" cellspacing="2" border="0" width="100%">                        <tr>                            <td>Nome<\/td>                            <td><input class="input" type="text" name="user" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td>Senha<\/td>                            <td><input class="input" type="password" name="pass" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td align="center" colspan="2" class="fontsmall">Com o meu login eu aceito os <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">termos e condições de uso<\/a>\.<\/td>                        <\/tr>                        <tr>                            <td><\/td>                            <td><input type="submit" class="input" value="Entrar"><\/td>                        <\/tr>                    <\/table>                <\/td>                <td align="center" valign="top"><img src="\/img\/race2\.gif" alt="Lobisomen" ><\/td>            <\/tr>            <tr>                <td align="center" colspan="3"><a href="\/user\/lostpw" target="_top" class="headlines">Perdeu sua senha\?<\/a><\/td>            <\/tr>                    <\/table>    <\/center><\/form>
+c3_origem: s2.br.bitefight.org
+c3_cookie_r: nada
+c3_login: gradal
+c3_senha: gra21casa
+c3_cookie_x: BiteFight_servers_br_2=true
+c3_cookie_y: nada
+
+c4_nome: profile/index
+c4_tempo: 1
+c4_cookie: SID=f97b5dbbcfc0b70dfdc32211e2645fd3
+c4_linha: user=jantar&pass=jan21casa
+c4_form: <form action="\/user\/login"  method="POST">    <center>        <br><br>        <table cellpadding="0" cellspacing="0" border="0" width="90%">                        <tr>                <td align="center" colspan="3">Insira o seu nome de jogador e a senha para entrar\.<br><br><\/td>            <\/tr>                            <tr>                <td align="center" valign="top"><img src="\/img\/race1\.gif" alt="Vampiro" ><\/td>                <td valign="top">                    <table cellpadding="2" cellspacing="2" border="0" width="100%">                        <tr>                            <td>Nome<\/td>                            <td><input class="input" type="text" name="user" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td>Senha<\/td>                            <td><input class="input" type="password" name="pass" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td align="center" colspan="2" class="fontsmall">Com o meu login eu aceito os <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">termos e condições de uso<\/a>\.<\/td>                        <\/tr>                        <tr>                            <td><\/td>                            <td><input type="submit" class="input" value="Entrar"><\/td>                        <\/tr>                    <\/table>                <\/td>                <td align="center" valign="top"><img src="\/img\/race2\.gif" alt="Lobisomen" ><\/td>            <\/tr>            <tr>                <td align="center" colspan="3"><a href="\/user\/lostpw" target="_top" class="headlines">Perdeu sua senha\?<\/a><\/td>            <\/tr>                    <\/table>    <\/center><\/form>
+c4_origem: s3.br.bitefight.org
+c4_cookie_r: nada
+c4_login: jantar
+c4_senha: jan21casa
+c4_cookie_x: BiteFight_servers_br_3=true
+c4_cookie_y: nada
+
+c5_nome: profile/index
+c5_tempo: 1
+c5_cookie: SID=5728d6371486f305db942f9e980d0054
+c5_linha: user=caseiro&pass=cas21casa
+c5_form: <form action="\/user\/login"  method="POST">    <center>        <br><br>        <table cellpadding="0" cellspacing="0" border="0" width="90%">                        <tr>                <td align="center" colspan="3">Insira o seu nome de jogador e a senha para entrar\.<br><br><\/td>            <\/tr>                            <tr>                <td align="center" valign="top"><img src="\/img\/race1\.gif" alt="Vampiro" ><\/td>                <td valign="top">                    <table cellpadding="2" cellspacing="2" border="0" width="100%">                        <tr>                            <td>Nome<\/td>                            <td><input class="input" type="text" name="user" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td>Senha<\/td>                            <td><input class="input" type="password" name="pass" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td align="center" colspan="2" class="fontsmall">Com o meu login eu aceito os <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">termos e condições de uso<\/a>\.<\/td>                        <\/tr>                        <tr>                            <td><\/td>                            <td><input type="submit" class="input" value="Entrar"><\/td>                        <\/tr>                    <\/table>                <\/td>                <td align="center" valign="top"><img src="\/img\/race2\.gif" alt="Lobisomen" ><\/td>            <\/tr>            <tr>                <td align="center" colspan="3"><a href="\/user\/lostpw" target="_top" class="headlines">Perdeu sua senha\?<\/a><\/td>            <\/tr>                    <\/table>    <\/center><\/form>
+c5_origem: s4.br.bitefight.org
+c5_cookie_r: nada
+c5_login: caseiro
+c5_senha: cas21casa
+c5_cookie_x: BiteFight_servers_br_4=true
+c5_cookie_y: nada
+
+c6_nome: profile/index
+c6_tempo: 1
+c6_cookie: SID=72d6fda87ad9fcf12fec266cb9c03bcf
+c6_linha: user=jornada&pass=jor21casa
+c6_form: <form action="\/user\/login"  method="POST">    <center>        <br><br>        <table cellpadding="0" cellspacing="0" border="0" width="90%">                        <tr>                <td align="center" colspan="3">Insira o seu nome de jogador e a senha para entrar\.<br><br><\/td>            <\/tr>                            <tr>                <td align="center" valign="top"><img src="\/img\/race1\.gif" alt="Vampiro" ><\/td>                <td valign="top">                    <table cellpadding="2" cellspacing="2" border="0" width="100%">                        <tr>                            <td>Nome<\/td>                            <td><input class="input" type="text" name="user" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td>Senha<\/td>                            <td><input class="input" type="password" name="pass" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td align="center" colspan="2" class="fontsmall">Com o meu login eu aceito os <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">termos e condições de uso<\/a>\.<\/td>                        <\/tr>                        <tr>                            <td><\/td>                            <td><input type="submit" class="input" value="Entrar"><\/td>                        <\/tr>                    <\/table>                <\/td>                <td align="center" valign="top"><img src="\/img\/race2\.gif" alt="Lobisomen" ><\/td>            <\/tr>            <tr>                <td align="center" colspan="3"><a href="\/user\/lostpw" target="_top" class="headlines">Perdeu sua senha\?<\/a><\/td>            <\/tr>                    <\/table>    <\/center><\/form>
+c6_origem: s5.br.bitefight.org
+c6_cookie_r: nada
+c6_login: jornada
+c6_senha: jor21casa
+c6_cookie_x: BiteFight_servers_br_5=true
+c6_cookie_y: nada
+
+c7_nome: profile/index
+c7_tempo: 1
+c7_cookie: SID=d6331d2b91d6d51e0ac68e93d08a8aa0
+c7_linha: user=granola&pass=gra21casa
+c7_form: <form action="\/user\/login"  method="POST">    <center>        <br><br>        <table cellpadding="0" cellspacing="0" border="0" width="90%">                        <tr>                <td align="center" colspan="3">Insira o seu nome de jogador e a senha para entrar\.<br><br><\/td>            <\/tr>                            <tr>                <td align="center" valign="top"><img src="\/img\/race1\.gif" alt="Vampiro" ><\/td>                <td valign="top">                    <table cellpadding="2" cellspacing="2" border="0" width="100%">                        <tr>                            <td>Nome<\/td>                            <td><input class="input" type="text" name="user" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td>Senha<\/td>                            <td><input class="input" type="password" name="pass" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td align="center" colspan="2" class="fontsmall">Com o meu login eu aceito os <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">termos e condições de uso<\/a>\.<\/td>                        <\/tr>                        <tr>                            <td><\/td>                            <td><input type="submit" class="input" value="Entrar"><\/td>                        <\/tr>                    <\/table>                <\/td>                <td align="center" valign="top"><img src="\/img\/race2\.gif" alt="Lobisomen" ><\/td>            <\/tr>            <tr>                <td align="center" colspan="3"><a href="\/user\/lostpw" target="_top" class="headlines">Perdeu sua senha\?<\/a><\/td>            <\/tr>                    <\/table>    <\/center><\/form>
+c7_origem: s6.br.bitefight.org
+c7_cookie_r: nada
+c7_login: granola
+c7_senha: gra21casa
+c7_cookie_x: BiteFight_servers_br_6=true
+c7_cookie_y: nada
+
+c8_nome: profile/index
+c8_tempo: 1
+c8_cookie: SID=21ba64c976c7db2a0adc95b7fa2480c0
+c8_linha: user=novatojo&pass=nov21casa
+c8_form: <form action="\/user\/login"  method="POST">    <center>        <br><br>        <table cellpadding="0" cellspacing="0" border="0" width="90%">                        <tr>                <td align="center" colspan="3">Insira o seu nome de jogador e a senha para entrar\.<br><br><\/td>            <\/tr>                            <tr>                <td align="center" valign="top"><img src="\/img\/race1\.gif" alt="Vampiro" ><\/td>                <td valign="top">                    <table cellpadding="2" cellspacing="2" border="0" width="100%">                        <tr>                            <td>Nome<\/td>                            <td><input class="input" type="text" name="user" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td>Senha<\/td>                            <td><input class="input" type="password" name="pass" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td align="center" colspan="2" class="fontsmall">Com o meu login eu aceito os <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">termos e condições de uso<\/a>\.<\/td>                        <\/tr>                        <tr>                            <td><\/td>                            <td><input type="submit" class="input" value="Entrar"><\/td>                        <\/tr>                    <\/table>                <\/td>                <td align="center" valign="top"><img src="\/img\/race2\.gif" alt="Lobisomen" ><\/td>            <\/tr>            <tr>                <td align="center" colspan="3"><a href="\/user\/lostpw" target="_top" class="headlines">Perdeu sua senha\?<\/a><\/td>            <\/tr>                    <\/table>    <\/center><\/form>
+c8_origem: s7.br.bitefight.org
+c8_cookie_r: nada
+c8_login: novatojo
+c8_senha: nov21casa
+c8_cookie_x: BiteFight_servers_br_7=true
+c8_cookie_y: nada
+
+c9_nome: profile/index
+c9_tempo: 1
+c9_cookie: SID=a7ba516322c5cb0ef31af6f313e5efce
+c9_linha: user=nanorobo&pass=nan21casa
+c9_form: <form action="\/user\/login"  method="POST">    <center>        <br><br>        <table cellpadding="0" cellspacing="0" border="0" width="90%">                        <tr>                <td align="center" colspan="3">Insira o seu nome de jogador e a senha para entrar\.<br><br><\/td>            <\/tr>                            <tr>                <td align="center" valign="top"><img src="\/img\/race1\.gif" alt="Vampiro" ><\/td>                <td valign="top">                    <table cellpadding="2" cellspacing="2" border="0" width="100%">                        <tr>                            <td>Nome<\/td>                            <td><input class="input" type="text" name="user" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td>Senha<\/td>                            <td><input class="input" type="password" name="pass" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td align="center" colspan="2" class="fontsmall">Com o meu login eu aceito os <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">termos e condições de uso<\/a>\.<\/td>                        <\/tr>                        <tr>                            <td><\/td>                            <td><input type="submit" class="input" value="Entrar"><\/td>                        <\/tr>                    <\/table>                <\/td>                <td align="center" valign="top"><img src="\/img\/race2\.gif" alt="Lobisomen" ><\/td>            <\/tr>            <tr>                <td align="center" colspan="3"><a href="\/user\/lostpw" target="_top" class="headlines">Perdeu sua senha\?<\/a><\/td>            <\/tr>                    <\/table>    <\/center><\/form>
+c9_origem: s8.br.bitefight.org
+c9_cookie_r: nada
+c9_login: nanorobo
+c9_senha: nan21casa
+c9_cookie_x: BiteFight_servers_br_8=true
+c9_cookie_y: nada
+
+c10_nome: profile/index
+c10_tempo: 1
+c10_cookie: SID=71e1c0c8613a40c96f436e1653c07c06
+c10_linha: user=mardoni&pass=mar21casa
+c10_form: <form action="\/user\/login"  method="POST">    <center>        <br><br>        <table cellpadding="0" cellspacing="0" border="0" width="90%">                        <tr>                <td align="center" colspan="3">Insira o seu nome de jogador e a senha para entrar\.<br><br><\/td>            <\/tr>                            <tr>                <td align="center" valign="top"><img src="\/img\/race1\.gif" alt="Vampiro" ><\/td>                <td valign="top">                    <table cellpadding="2" cellspacing="2" border="0" width="100%">                        <tr>                            <td>Nome<\/td>                            <td><input class="input" type="text" name="user" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td>Senha<\/td>                            <td><input class="input" type="password" name="pass" size="30" MAXLENGTH="30"><\/td>                        <\/tr>                        <tr>                            <td align="center" colspan="2" class="fontsmall">Com o meu login eu aceito os <a href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=C00C0C&f_text_hover=FF0000&f_text_h=220202&f_text_hr=220202&f_text_hrbg=220202&f_text_hrborder=C00C0C&f_text_font=tahoma&f_bg=220202" target="_blank" class="copyright">termos e condições de uso<\/a>\.<\/td>                        <\/tr>                        <tr>                            <td><\/td>                            <td><input type="submit" class="input" value="Entrar"><\/td>                        <\/tr>                    <\/table>                <\/td>                <td align="center" valign="top"><img src="\/img\/race2\.gif" alt="Lobisomen" ><\/td>            <\/tr>            <tr>                <td align="center" colspan="3"><a href="\/user\/lostpw" target="_top" class="headlines">Perdeu sua senha\?<\/a><\/td>            <\/tr>                    <\/table>    <\/center><\/form>
+c10_origem: s9.br.bitefight.org
+c10_cookie_r: nada
+c10_login: mardoni
+c10_senha: mar21casa
+c10_cookie_x: BiteFight_servers_br_9=true
+c10_cookie_y: nada
+
+c11_nome: nada
+c11_tempo: 1249835
+c11_cookie: PHPSESSID=0be06903b0d2b69d3c51c70ce15d1790
+c11_linha: uni_id=&v=2&is_utf8=0&uni_url=uni7.ogame.com.br&login=clavius&pass=cla21casa
+c11_form: <form id="loginForm" name="loginForm" method="post" action="#">                    <input type="hidden" name="uni_id" value="" \/>                    <input type="hidden" name="v" value="2" \/>                    <input type="hidden" name="is_utf8" value="0" \/>					<div class="input-wrap">						<label for="serverLogin">Universo:<\/label>                                                 						<div class="black-border">							<select id="serverLogin" name="uni_url" onchange="setUniUrl\(this\.options\[this\.selectedIndex\]\.value\);">                                                                <option value="uni101\.ogame\.com\.br">Andromeda<\/option>                                                                <option value="uni102\.ogame\.com\.br">Barym<\/option>                                                                <option value="uni103\.ogame\.com\.br">Capella<\/option>                                                                <option value="uni1\.ogame\.com\.br">1\. Universo<\/option>                                                                <option value="uni2\.ogame\.com\.br">2\. Universo<\/option>                                                                <option value="uni3\.ogame\.com\.br">3\. Universo<\/option>                                                                <option value="uni4\.ogame\.com\.br">4\. Universo<\/option>                                                                <option value="uni5\.ogame\.com\.br">5\. Universo<\/option>                                                                <option value="uni6\.ogame\.com\.br">6\. Universo<\/option>                                                                <option value="uni7\.ogame\.com\.br">7\. Universo<\/option>                                                                <option value="uni8\.ogame\.com\.br">8\. Universo<\/option>                                                                <option value="uni9\.ogame\.com\.br">9\. Universo<\/option>                                							<\/select>						<\/div>					<\/div>					<div class="input-wrap">						<label for="usernameLogin">Nome de usuário:<\/label>						<div class="black-border">                            <input type="text" onKeyDown="hideLoginErrorBox\(\);" id="usernameLogin" class="validate\[required,custom\[noSpecialCaracters\],length\[3,20\]\]	" name="login" value="" \/>						<\/div>					<\/div>					<div class="input-wrap">                        <label for="passwordLogin">Password:<\/label>						<div class="black-border">                            <input type="password" onKeyDown="hideLoginErrorBox\(\);" class="validate\[required,length\[8,20\]\]" id="passwordLogin" name="pass" maxlength="20" \/>						<\/div>					<\/div>                    <input type="submit" id="loginSubmit" onclick="changeAction\('submitInput','loginForm'\);document\.forms\['loginForm'\]\.submit\(\);" value="Entrar" \/>					<a href="#" id="pwLost" target="_blank" title="Esqueceu sua senha\?">Esqueceu sua senha\?<\/a>                    <p id ="TermsAndConditionsAcceptWithLogin">                        Com o login aceito os <a class="" href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=8e8e8e&f_text_hover=ffffff&f_text_h=8e8e8e&f_text_hr=ffffff&f_text_hrbg=061229&f_text_hrborder=26324c&f_text_font=verdana%2C\+arial%2C\+helvetica%2C\+sans-serif&f_bg=000000" target="_blank" title="<\?=LOCA_AGB\?>">AGB<\/a>                    <\/p>                <\/form>
+c11_origem: uni7.ogame.com.br
+c11_cookie_r: 101
+c11_login: clavius
+c11_senha: cla21casa
+c11_cookie_x: prsess_147857=e318ceef0dbc27c6f4fa0a344d9096e7
+c11_cookie_y: login_147857=U_br7%3Aclavius%3A55ab97ef65accb8c6c196b7c44e6cc17
+
+c12_nome: nada
+c12_tempo: 999999999999999
+c12_cookie: PHPSESSID=e6304231d41a899982a164a6569ebcf1
+c12_linha: uni_id=&v=2&is_utf8=0&uni_url=uni8.ogame.com.br&login=laranjalima&pass=lar21casa
+c12_form: <form id="loginForm" name="loginForm" method="post" action="#">                    <input type="hidden" name="uni_id" value="" \/>                    <input type="hidden" name="v" value="2" \/>                    <input type="hidden" name="is_utf8" value="0" \/>					<div class="input-wrap">						<label for="serverLogin">Universo:<\/label>                                                 						<div class="black-border">							<select id="serverLogin" name="uni_url" onchange="setUniUrl\(this\.options\[this\.selectedIndex\]\.value\);">                                                                <option value="uni101\.ogame\.com\.br">Andromeda<\/option>                                                                <option value="uni102\.ogame\.com\.br">Barym<\/option>                                                                <option value="uni103\.ogame\.com\.br">Capella<\/option>                                                                <option value="uni1\.ogame\.com\.br">1\. Universo<\/option>                                                                <option value="uni2\.ogame\.com\.br">2\. Universo<\/option>                                                                <option value="uni3\.ogame\.com\.br">3\. Universo<\/option>                                                                <option value="uni4\.ogame\.com\.br">4\. Universo<\/option>                                                                <option value="uni5\.ogame\.com\.br">5\. Universo<\/option>                                                                <option value="uni6\.ogame\.com\.br">6\. Universo<\/option>                                                                <option value="uni7\.ogame\.com\.br">7\. Universo<\/option>                                                                <option value="uni8\.ogame\.com\.br">8\. Universo<\/option>                                                                <option value="uni9\.ogame\.com\.br">9\. Universo<\/option>                                							<\/select>						<\/div>					<\/div>					<div class="input-wrap">						<label for="usernameLogin">Nome de usuário:<\/label>						<div class="black-border">                            <input type="text" onKeyDown="hideLoginErrorBox\(\);" id="usernameLogin" class="validate\[required,custom\[noSpecialCaracters\],length\[3,20\]\]	" name="login" value="" \/>						<\/div>					<\/div>					<div class="input-wrap">                        <label for="passwordLogin">Password:<\/label>						<div class="black-border">                            <input type="password" onKeyDown="hideLoginErrorBox\(\);" class="validate\[required,length\[8,20\]\]" id="passwordLogin" name="pass" maxlength="20" \/>						<\/div>					<\/div>                    <input type="submit" id="loginSubmit" onclick="changeAction\('submitInput','loginForm'\);document\.forms\['loginForm'\]\.submit\(\);" value="Entrar" \/>					<a href="#" id="pwLost" target="_blank" title="Esqueceu sua senha\?">Esqueceu sua senha\?<\/a>                    <p id ="TermsAndConditionsAcceptWithLogin">                        Com o login aceito os <a class="" href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=8e8e8e&f_text_hover=ffffff&f_text_h=8e8e8e&f_text_hr=ffffff&f_text_hrbg=061229&f_text_hrborder=26324c&f_text_font=verdana%2C\+arial%2C\+helvetica%2C\+sans-serif&f_bg=000000" target="_blank" title="<\?=LOCA_AGB\?>">AGB<\/a>                    <\/p>                <\/form>
+c12_origem: uni8.ogame.com.br
+c12_cookie_r: 101
+c12_login: laranjalima
+c12_senha: lar21casa
+c12_cookie_x: prsess_133576=dd025de4dd51011080c97ea92d4b74f7
+c12_cookie_y: login_133576=U_br8%3Alaranjalima%3Afaa28e5739a232cf3ea962f7e2deca62
+
+c13_nome: nada
+c13_tempo: 999999999999999
+c13_cookie: PHPSESSID=8721c839136aa53cf148573df72d0027
+c13_linha: uni_id=&v=2&is_utf8=0&uni_url=uni9.ogame.com.br&login=fanatico&pass=fan21casa
+c13_form: <form id="loginForm" name="loginForm" method="post" action="#">                    <input type="hidden" name="uni_id" value="" \/>                    <input type="hidden" name="v" value="2" \/>                    <input type="hidden" name="is_utf8" value="0" \/>					<div class="input-wrap">						<label for="serverLogin">Universo:<\/label>                                                 						<div class="black-border">							<select id="serverLogin" name="uni_url" onchange="setUniUrl\(this\.options\[this\.selectedIndex\]\.value\);">                                                                <option value="uni101\.ogame\.com\.br">Andromeda<\/option>                                                                <option value="uni102\.ogame\.com\.br">Barym<\/option>                                                                <option value="uni103\.ogame\.com\.br">Capella<\/option>                                                                <option value="uni1\.ogame\.com\.br">1\. Universo<\/option>                                                                <option value="uni2\.ogame\.com\.br">2\. Universo<\/option>                                                                <option value="uni3\.ogame\.com\.br">3\. Universo<\/option>                                                                <option value="uni4\.ogame\.com\.br">4\. Universo<\/option>                                                                <option value="uni5\.ogame\.com\.br">5\. Universo<\/option>                                                                <option value="uni6\.ogame\.com\.br">6\. Universo<\/option>                                                                <option value="uni7\.ogame\.com\.br">7\. Universo<\/option>                                                                <option value="uni8\.ogame\.com\.br">8\. Universo<\/option>                                                                <option value="uni9\.ogame\.com\.br">9\. Universo<\/option>                                							<\/select>						<\/div>					<\/div>					<div class="input-wrap">						<label for="usernameLogin">Nome de usuário:<\/label>						<div class="black-border">                            <input type="text" onKeyDown="hideLoginErrorBox\(\);" id="usernameLogin" class="validate\[required,custom\[noSpecialCaracters\],length\[3,20\]\]	" name="login" value="" \/>						<\/div>					<\/div>					<div class="input-wrap">                        <label for="passwordLogin">Password:<\/label>						<div class="black-border">                            <input type="password" onKeyDown="hideLoginErrorBox\(\);" class="validate\[required,length\[8,20\]\]" id="passwordLogin" name="pass" maxlength="20" \/>						<\/div>					<\/div>                    <input type="submit" id="loginSubmit" onclick="changeAction\('submitInput','loginForm'\);document\.forms\['loginForm'\]\.submit\(\);" value="Entrar" \/>					<a href="#" id="pwLost" target="_blank" title="Esqueceu sua senha\?">Esqueceu sua senha\?<\/a>                    <p id ="TermsAndConditionsAcceptWithLogin">                        Com o login aceito os <a class="" href="http:\/\/agb\.gameforge\.de\/index\.php\?lang=br&art=tac&special=&&f_text=8e8e8e&f_text_hover=ffffff&f_text_h=8e8e8e&f_text_hr=ffffff&f_text_hrbg=061229&f_text_hrborder=26324c&f_text_font=verdana%2C\+arial%2C\+helvetica%2C\+sans-serif&f_bg=000000" target="_blank" title="<\?=LOCA_AGB\?>">AGB<\/a>                    <\/p>                <\/form>
+c13_origem: uni9.ogame.com.br
+c13_cookie_r: 101
+c13_login: fanatico
+c13_senha: fan21casa
+c13_cookie_x: prsess_141752=d81c35da10d21a7b16ff72dee0111001
+c13_cookie_y: login_141752=U_br9%3Afanatico%3A3480f348402521a46756f16a14ba4da2
+
+c14_nome: nada
+c14_tempo: 1249835
+c14_cookie: T3E=%3D%3DQN5cjN2gjMkBjM6ATNxUTM2MjOxgjNxMjO4QTN4gDO2YjMxozN6QzMjZ2MmhTM0cjOuFmch1mOxYzNxEjOwMCMjEjN3ETM
+c14_linha: w=1024%3a768&login=1266879559&name=maran&password=maran69&s1.x=67&s1.y=17&s1=login
+c14_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1266879559" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c14_origem: s3.travian.com.br
+c14_cookie_r: 6
+c14_login: maran
+c14_senha: maran69
+c14_cookie_x: 86
+c14_cookie_y: 19
+
+c15_nome: nada
+c15_tempo: 1249835
+c15_cookie: T3E=%3D%3DQYlBDMmRDZ5UjZ6UjM0ETM2MjOxkzNyYjOwcTN4gDO2YjMxozN6YzM4YWOzYmM3ImOppXdvNnO0UzNxEjOwMCMjQTN3ETM
+c15_linha: w=1024%3a768&login=1266873592&name=souzi&password=souzi69&s1.x=61&s1.y=6&s1=login
+c15_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1266873592" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c15_origem: s3.travian.com.br
+c15_cookie_r: 6
+c15_login: souzi
+c15_senha: souzi69
+c15_cookie_x: 86
+c15_cookie_y: 19
+
+c16_nome: nada
+c16_tempo: 1249835
+c16_cookie: T3E=5kzM0IzNyEzYipTNzQTMxYzM6AjMyMjM6ETO1gDO4YjNyEjO2ozNidDZxEGM2UzN6IXYtdmO5UzNxEjOwMCMjkTN3ETM
+c16_linha: w=1024%3a768&login=1266873609&name=gmar&password=gmar69&s1.x=75&s1.y=15&s1=login
+c16_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1266873609" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c16_origem: s3.travian.com.br
+c16_cookie_r: 6
+c16_login: gmar
+c16_senha: gmar69
+c16_cookie_x: 86
+c16_cookie_y: 19
+
+c17_nome: nada
+c17_tempo: 1249835
+c17_cookie: T3E=%3D%3DQYlRDMzYDNzgjZ6ADN0ETM2MjOxUjN2IjO3EjN4gDO2YjMxozN6EWM0AzYjlTYhVmOx82Yp5mO1UzNxEjOwMCMjUTN3ETM
+c17_linha: w=1024%3a768&login=1266873626&name=nico1&password=nico169&s1.x=61&s1.y=6&s1=login
+c17_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1266873626" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c17_origem: s3.travian.com.br
+c17_cookie_r: 6
+c17_login: nico1
+c17_senha: nico169
+c17_cookie_x: 86
+c17_cookie_y: 19
+
+c18_nome: nada
+c18_tempo: 1249835
+c18_cookie: T3E=%3D%3DwN5cTZmhDZ2EGN6MDN0ETM2MjOxgjM4QjO5MjN4gDO2YjMxozN6gjNkdDO5gjMhZjO58GZvRmO2UzNxEjOwMCMjYTN3ETM
+c18_linha: w=1024%3a768&login=1266873643&name=dodo9&password=dodo969&s1.x=41&s1.y=11&s1=login
+c18_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1266873643" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c18_origem: s3.travian.com.br
+c18_cookie_r: 6
+c18_login: dodo9
+c18_senha: dodo969
+c18_cookie_x: 86
+c18_cookie_y: 19
+
+c19_nome: nada
+c19_tempo: 1249835
+c19_cookie: T3E=%3D%3DAOhZjN0E2Y2IGO6UTN0ETM2MjO1ATMyQjOxYjN4gDO2YjMxozN6QmZlZDOyUmNmZjOvJnchNmOwczNxEjOwMCMjAzN3ETM
+c19_linha: w=1024%3a768&login=1266873661&name=carro&password=carro69&s1.x=70&s1.y=16&s1=login
+c19_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1266873661" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c19_origem: s3.travian.com.br
+c19_cookie_r: 6
+c19_login: carro
+c19_senha: carro69
+c19_cookie_x: 86
+c19_cookie_y: 19
+
+c20_nome: nada
+c20_tempo: 1
+c20_cookie: T3E=%3D%3DQYhZjNhhTN4EGN6UjN0ETM2MjO5YTNyYjOygjN4gDO2YjMxozN6UDOkljMkVjM2UjOsVWbl1mOzYzNxEjOwMCMjMjN3ETM
+c20_linha: w=1024%3a768&login=1266873678&name=memel&password=memel69&s1.x=47&s1.y=8&s1=login
+c20_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1266873678" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c20_origem: s3.travian.com.br
+c20_cookie_r: 6
+c20_login: memel
+c20_senha: memel69
+c20_cookie_x: 86
+c20_cookie_y: 19
+
+c21_nome: s4vassoura
+c21_tempo: 2233103
+c21_cookie: T3E=%3DgDZ5EWYzU2M3EjOzMDO3YjMxoDO5MDMzoTN5UzNzEzN2ITM6ATM6ImZ4YmY5ADM2MmOuFWauVmchZnOyMDO4EjOwMCMjIzM4gTM
+c21_linha: w=1024%3a768&login=1267137160&name=varenian&password=varenian77&s1.x=58&s1.y=7&s1=login
+c21_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137160" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c21_origem: s4.travian.com.br
+c21_cookie_r: 1
+c21_login: varenian
+c21_senha: varenian77
+c21_cookie_x: -138
+c21_cookie_y: -21
+
+c22_nome: s4defcom
+c22_tempo: 2233103
+c22_cookie: T3E=%3D%3DgM4UDOkFWO3EGN6cDN4cjNyEjO3UDO3QjOwIjN3MTM3YjMxozN6YDN2UjYxI2YjVjOt92Y1NnO0MDO4EjOwMCMjQzM4gTM
+c22_linha: w=1024%3a768&login=1267137180&name=sucom&password=sucom77&s1.x=40&s1.y=9&s1=login
+c22_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137180" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c22_origem: s4.travian.com.br
+c22_cookie_r: 1
+c22_login: sucom
+c22_senha: sucom77
+c22_cookie_x: -138
+c22_cookie_y: -21
+
+c23_nome: s4nevesca
+c23_tempo: 2233103
+c23_cookie: T3E=%3DUTYlJTY5cTYzImO5UDO3YjMxoTO1QjOzUjN3MTM3YjMxozN6EWOkVjZzQTOhBjOyVmdl5mO2MDO4EjOwMCMjYzM4gTM
+c23_linha: w=1024%3a768&login=1267137201&name=never&password=never77&s1.x=40&s1.y=9&s1=login
+c23_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137201" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c23_origem: s4.travian.com.br
+c23_cookie_r: 1
+c23_login: never
+c23_senha: never77
+c23_cookie_x: -138
+c23_cookie_y: -21
+
+c24_nome: s4salem
+c24_tempo: 2233103
+c24_cookie: T3E=%3D%3DgN5cDZyQWZhJWO6QzN4cjNyEjOzczMyEjOzgjN3MTM3YjMxozN6EzY1MTY0YGZ3gjOtVGbhNnO3MDO4EjOwMCMjczM4gTM
+c24_linha: w=1024%3a768&login=1267137222&name=salem&password=salem77&s1.x=20&s1.y=15&s1=login
+c24_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137222" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c24_origem: s4.travian.com.br
+c24_cookie_r: 1
+c24_login: salem
+c24_senha: salem77
+c24_cookie_x: -138
+c24_cookie_y: -21
+
+c25_nome: s4fritas
+c25_tempo: 2233103
+c25_cookie: T3E=%3DMjZycTMykTOhFmO1kDO3YjMxoDNwEjMxoTNxczNzEzN2ITM6gjO1MzMwADMlZTZxozchRXayJmO4MDO4EjOwMCMjgzM4gTM
+c25_linha: w=1024%3a768&login=1267137240&name=britas&password=britas77&s1.x=83&s1.y=17&s1=login
+c25_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137240" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c25_origem: s4.travian.com.br
+c25_cookie_r: 1
+c25_login: britas
+c25_senha: britas77
+c25_cookie_x: -138
+c25_cookie_y: -21
+
+c26_nome: s4ronda
+c26_tempo: 2233103
+c26_cookie: T3E=%3D%3DQZ2I2YmhjN1ITN6ITM5cjNyEjO4kzN1UjO2QzN3MTM3YjMxozN6IDM4kTYkZTM0UmOv5mbvJnOwQDO4EjOwMCMjADN4gTM
+c26_linha: w=1024%3a768&login=1267137259&name=ronno&password=ronno77&s1.x=61&s1.y=6&s1=login
+c26_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137259" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c26_origem: s4.travian.com.br
+c26_cookie_r: 1
+c26_login: ronno
+c26_senha: ronno77
+c26_cookie_x: -138
+c26_cookie_y: -21
+
+c27_nome: s4ninjas
+c27_tempo: 2233103
+c27_cookie: T3E=%3D%3DQO2QmN4UTMwkTN6UjM5cjNyEjO1gTMxojN3czNzEzN2ITM6gjO3IWO2MGNhJjZmpTYpFmcpdmOzQDO4EjOwMCMjMDN4gTM
+c27_linha: w=1024%3a768&login=1267137280&name=giraia&password=giraia77&s1.x=47&s1.y=8&s1=login
+c27_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137280" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c27_origem: s4.travian.com.br
+c27_cookie_r: 1
+c27_login: giraia
+c27_senha: giraia77
+c27_cookie_x: -138
+c27_cookie_y: -21
+
+c28_nome: s4abelhas
+c28_tempo: 2233103
+c28_cookie: T3E=%3DU2M5EDMxQWYhJjO3QTO3YjMxoDM0MDM1ozNwgzNzEzN2ITM6gjOhVTYkNjM4kTOzoTYwlGbl1mO4QDO4EjOwMCMjgDN4gTM
+c28_linha: w=1024%3a768&login=1267137308&name=melipa&password=melipa77&s1.x=75&s1.y=15&s1=login
+c28_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137308" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c28_origem: s4.travian.com.br
+c28_cookie_r: 1
+c28_login: melipa
+c28_senha: melipa77
+c28_cookie_x: -138
+c28_cookie_y: -21
+
+c29_nome: s4grande_cume
+c29_tempo: 2233103
+c29_cookie: T3E=%3D%3DQM3EDNlBjM1Y2Y6IjN5cjNyEjOwUTM1QjO3MDO3MTM3YjMxozN6MGN1gTO1ADZ0QmOhJnchpmOwUDO4EjOwMCMjATN4gTM
+c29_linha: w=1024%3a768&login=1267137326&name=jarra&password=jarra77&s1.x=40&s1.y=9&s1=login
+c29_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137326" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c29_origem: s4.travian.com.br
+c29_cookie_r: 1
+c29_login: jarra
+c29_senha: jarra77
+c29_cookie_x: -138
+c29_cookie_y: -21
+
+c30_nome: s4clareira
+c30_tempo: 2233103
+c30_cookie: T3E=%3DUDOjVjY4czNjhjOxgTO3YjMxoTM0kjN1oTO4gzNzEzN2ITM6gjOkRmYkhTZxImM5ozbhJXYsNmOxUDO4EjOwMCMjETN4gTM
+c30_linha: w=1024%3a768&login=1267137346&name=clarao&password=clarao77&s1.x=58&s1.y=7&s1=login
+c30_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137346" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c30_origem: s4.travian.com.br
+c30_cookie_r: 1
+c30_login: clarao
+c30_senha: clarao77
+c30_cookie_x: -138
+c30_cookie_y: -21
+
+c31_nome: s4lima_dragao
+c31_tempo: 2233103
+c31_cookie: T3E=%3D%3DAO5IWZ5MTYyQTM6gTO5cjNyEjOyADOxUjO1MTO3MTM3YjMxozN6YGZ5EGZzIGM3cjOzFWbpxmOyMTO5EjOwMCMjIzM5kTM
+c31_linha: w=1024%3a768&login=1267137370&name=limas&password=limas77&s1.x=75&s1.y=15&s1=login
+c31_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137370" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c31_origem: s4.travian.com.br
+c31_cookie_r: 1
+c31_login: limas
+c31_senha: limas77
+c31_cookie_x: 138
+c31_cookie_y: 25
+
+c32_nome: s4joiado
+c32_tempo: 2233103
+c32_cookie: T3E=%3D%3DQY5UGZxEjZkhzN6QjMwgjNyEjOzQzN2oDM2kzNzEzN2ITM6gjOjhTNhhDNkZGN5ozbkFWavpmO1MTO5EjOwMCMjUzM5kTM
+c32_linha: w=1024%3a768&login=1267137387&name=joiado&password=joiado77&s1.x=67&s1.y=17&s1=login
+c32_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137387" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c32_origem: s4.travian.com.br
+c32_cookie_r: 1
+c32_login: joiado
+c32_senha: joiado77
+c32_cookie_x: 138
+c32_cookie_y: 25
+
+c33_nome: s4extra_grande
+c33_tempo: 2233103
+c33_cookie: T3E=%3DUDMhF2YlVGO5QjO0MDM4YjMxoDNwgjNyojMwADOzEzN2ITM6gjOmJTMyIzN2YGZhpTaulmZsFmO4MTO5EjOwMCMjgzM5kTM
+c33_linha: w=1024%3a768&login=1267137410&name=alfini&password=alfini77&s1.x=61&s1.y=6&s1=login
+c33_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137410" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c33_origem: s4.travian.com.br
+c33_cookie_r: 1
+c33_login: alfini
+c33_senha: alfini77
+c33_cookie_x: 138
+c33_cookie_y: 25
+
+c34_nome: s4indigena
+c34_tempo: 2233103
+c34_cookie: T3E=%3DEzYkBjM2cDO5ImOzUDM4YjMxoTN2ADOzojNyADOzEzN2ITM6gjO2UWMzUmNjZWNwoTY0Fmch1mOwQTO5EjOwMCMjADN5kTM
+c34_linha: w=1024%3a768&login=1267137428&name=marata&password=marata77&s1.x=67&s1.y=17&s1=login
+c34_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137428" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c34_origem: s4.travian.com.br
+c34_cookie_r: 1
+c34_login: marata
+c34_senha: marata77
+c34_cookie_x: 138
+c34_cookie_y: 25
+
+c35_nome: s4codigo_inferno
+c35_tempo: 2233103
+c35_cookie: T3E=%3DYGN4cTMlNDZhBjO4YDM4YjMxozN5IzM0ozN1ADOzEzN2ITM6gjOzIGOzU2NiJTNxoTZjJXdvNnOxQTO5EjOwMCMjEDN5kTM
+c35_linha: w=1024%3a768&login=1267137446&name=source&password=source77&s1.x=61&s1.y=6&s1=login
+c35_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137446" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c35_origem: s4.travian.com.br
+c35_cookie_r: 1
+c35_login: source
+c35_senha: source77
+c35_cookie_x: 138
+c35_cookie_y: 25
+
+c36_nome: s4cone_vida
+c36_tempo: 2233103
+c36_cookie: T3E=%3DEWZ4UWM2MGMwYjO1kDM4YjMxoDO0QTOzoDM5ADOzEzN2ITM6gjOxcTM3I2N3cDO2oTZu92Yh1mOzQTO5EjOwMCMjMDN5kTM
+c36_linha: w=1024%3a768&login=1267137465&name=macone&password=macone77&s1.x=83&s1.y=17&s1=login
+c36_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137465" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c36_origem: s4.travian.com.br
+c36_cookie_r: 1
+c36_login: macone
+c36_senha: macone77
+c36_cookie_x: 138
+c36_cookie_y: 25
+
+c37_nome: s4nicones
+c37_tempo: 2233103
+c37_cookie: T3E=5MjZiNTN2ImN1ojMxEDO2ITM6QzNzYTM6UjMxgzMxcjNyEjO2ojN3UDM1E2Y5YDO6M3Yp5mO0QTO5EjOwMCMjQDN5kTM
+c37_linha: w=1024%3a768&login=1267137494&name=nics&password=nics77&s1.x=40&s1.y=9&s1=login
+c37_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137494" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c37_origem: s4.travian.com.br
+c37_cookie_r: 1
+c37_login: nics
+c37_senha: nics77
+c37_cookie_x: 138
+c37_cookie_y: 25
+
+c38_nome: s4kate_marrone
+c38_tempo: 2233103
+c38_cookie: T3E=0MmNhVjNjNWZzojMzEDO2ITM6ETNxETM6ETNxgzMxcjNyEjO5oTM4ETZ0UGZ2YzY6UmbvJnch1mO2QTO5EjOwMCMjYDN5kTM
+c38_linha: w=1024%3a768&login=1267137513&name=marrone&password=marrone77&s1.x=47&s1.y=8&s1=login
+c38_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137513" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c38_origem: s4.travian.com.br
+c38_cookie_r: 1
+c38_login: marrone
+c38_senha: marrone77
+c38_cookie_x: 138
+c38_cookie_y: 25
+
+c39_nome: s4cidade_carma
+c39_tempo: 2233103
+c39_cookie: T3E=jRmM3QDNyITNlpzM1EDO2ITM6AzN3kjOzgTM4MTM3YjMxozN6UWO2gDMmVTM1UjOh1mchNmO5QTO5EjOwMCMjkDN5kTM
+c39_linha: w=1024%3a768&login=1267137536&name=carma&password=carma77&s1.x=61&s1.y=6&s1=login
+c39_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137536" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c39_origem: s4.travian.com.br
+c39_cookie_r: 1
+c39_login: carma
+c39_senha: carma77
+c39_cookie_x: 138
+c39_cookie_y: 25
+
+c40_nome: s4my_jataira
+c40_tempo: 2233103
+c40_cookie: T3E=%3DQzNxYGM2kzMyAjO5cTM4YjMxoDMxMzMzozNxIDOzEzN2ITM6gjO0QWO3YjMlVGOhpTawVHbl1mOwUTO5EjOwMCMjATN5kTM
+c40_linha: w=1024%3a768&login=1267137558&name=melupi&password=melupi77&s1.x=20&s1.y=15&s1=login
+c40_form: <form method="post" name="snd" action="dorf1\.php"><input type="hidden" name="w" value="" \/><input type="hidden" name="login" value="1267137558" \/><table cellpadding="1" cellspacing="1" id="login_form">	<tbody>		<tr class="top">			<th>Nome:<\/th>			<td><input class="text" type="text" name="name" value="" maxlength="15" \/> <span class="error"> <\/span><\/td>		<\/tr>		<tr class="btm">			<th>Senha:<\/th>			<td><input class="text" type="password" name="password" value="" maxlength="20" \/> <span class="error"> <\/span><\/td>		<\/tr>	<\/tbody><\/table><p class="btn">		<input type="image" value="login" name="s1"	onclick="xy\(\);" id="btn_login" class="dynamic_img" src="img\/x\.gif" alt="Botão-Login"	\/><\/p><\/form>
+c40_origem: s4.travian.com.br
+c40_cookie_r: 1
+c40_login: melupi
+c40_senha: melupi77
+c40_cookie_x: 138
+c40_cookie_y: 25
